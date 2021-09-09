@@ -7,7 +7,7 @@ function App() {
     <div>
       <h1>My App</h1>
       <p>Made a change</p>
-      <h2></h2>
+      <h2>Actuall Put something here</h2>
     </div>
   );
 }
